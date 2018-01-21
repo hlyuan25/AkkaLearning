@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="scala-2.11">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://D:/scala-2.11.11" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
